@@ -4,7 +4,6 @@
 This project aims to analyze **credit card transactions** to identify high-risk patterns and potential fraud. The analysis is conducted using **Google BigQuery** for data processing and integration, and **Looker Studio** for dashboard visualization.
 
 ---
-
 ## Dataset Schema
 - **cards**
   `id`, `client_id`, `card_brand`, `card_type`, `card_number`, `expires`, `cvv`, `has_chip`, `num_cards_issued`, `credit_limit`, `acct_open_date`, `year_pin_last_changed`, `card_on_dark_web`
